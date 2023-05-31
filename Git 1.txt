@@ -9,6 +9,7 @@ public class Main {
 
         System.out.print("Enter a number: ");
         int num = reader.nextInt();
+         System.out.print("Enter a number 44: ");
 
         if(num % 2 == 0)
             System.out.println(num + " is even");
